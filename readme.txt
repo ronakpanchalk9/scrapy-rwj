@@ -1,3 +1,4 @@
+** Scrapy Web Crawler for Dynamic Website (rewardsforjustice.net) **
 To run this crawler, 
 Open Terminal and type: 
 > scrapy crawl ronak_spider
